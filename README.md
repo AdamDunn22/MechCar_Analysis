@@ -42,3 +42,18 @@ We would fail to reject the null hypothesis that the sample mean may be equivale
 
 
 ## Study Design: MechaCar vs Competition
+We will compare the performance of MechaCar models to our competitors in the last 5 years.
+
+**Metrics**
+* Value($)
+* Costs($)
+* Horse Power
+* Safety Rating
+* Fuel Efficiency (MPG)
+
+**Hypothesis**
+* Ho: Based on the performance of the of the Car MechaCar is priced correctly.
+* H1: Based on the performance of the of the Car MechaCar is not priced correctly.
+
+**Statistical Test**
+I would use the Multiple Linear Regression test as it would show us the p-value for each variable and tell us which ones are statistically significant to our models and which ones are not. They will also give us an equation of each variables impact to the price of the cars.
